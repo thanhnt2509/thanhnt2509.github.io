@@ -21,7 +21,11 @@ To run this web on your local machine, follow these steps:
 ```
 git clone https://github.com/tnt-exe/tnt-exe.github.io.git
 ```
-2. Open `index.html` in your web browser.
+2. Locate to the directory
+```
+cd tnt-exe.github.io
+```
+3. Open `index.html` in your web browser.
 
 ## Usage
 
