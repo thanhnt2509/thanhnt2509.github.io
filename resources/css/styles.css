@@ -427,7 +427,7 @@ progress {
 }
 
 .list-inline-item a {
-    color: #6c757d
+    color: #6c757d !important
 }
 
 .list-inline-item:not(:last-child) {
