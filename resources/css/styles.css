@@ -426,6 +426,10 @@ progress {
     display: inline-block
 }
 
+.list-inline-item a {
+    color: #6c757d
+}
+
 .list-inline-item:not(:last-child) {
     margin-right: .5rem
 }
