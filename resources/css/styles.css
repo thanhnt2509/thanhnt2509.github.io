@@ -1805,8 +1805,8 @@ p.lead {
 }
 
 .coursera-text {
-    color: #2457D4; 
-    font-weight: bold;
+    color: #2457D4 !important;
+    font-weight: bold !important;
 }
 
 .subheading {
